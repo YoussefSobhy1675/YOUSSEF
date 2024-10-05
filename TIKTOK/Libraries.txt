@@ -1,0 +1,6 @@
+requests
+render
+colorama
+prettytable
+bs4
+user-agent
