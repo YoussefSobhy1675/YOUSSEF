@@ -186,8 +186,8 @@ class Zefoy:
         os.system('clear')
         print(output)
         print("""Developer : YOUSSEF SOBHY 
-TELE : @YOUSSEFSOBHY13 
-Phone : +201222728329""")
+TELE : @YOUSSEFSOBHY13
+My channel : https://t.me/kingelnet""")
         print("\x1b[1;33m—" * 60)
         for service in self.services:
             print(f"\x1b[38;5;117m{i} - \x1b[38;5;231m", service,'¦', f"{Fore.GREEN if 'ago updated' in self.services[service] else Fore.RED}{self.services[service]}{Fore.RESET}")
